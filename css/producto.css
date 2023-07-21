@@ -1,0 +1,26 @@
+#cargando {
+    display: none;
+}
+#navbarCollapse{
+    display: flex;
+    gap: 30px;
+}
+
+#contador{
+    width: 50px;
+    text-align: center;
+    margin-left: 18px;
+    color: #007bff;
+    background: white;
+}
+
+/* custom.css */
+.navbar.bg-primary {
+    background-color: #007bff;
+  }
+  .btn.btn-block.btn-primary {
+    color: #ffffff; /* Color blanco para el texto */
+  }
+  .btn.btn-block.btn-primary:hover {
+    color: #ffffff; /* Color blanco para el texto */
+  }
